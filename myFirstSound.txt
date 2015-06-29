@@ -1,0 +1,6 @@
+Noise myWave => dac;
+
+//220 => myWave.freq;
+//0.5 => myWave.gain;
+
+3::second => now;
